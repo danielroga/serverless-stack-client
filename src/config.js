@@ -1,5 +1,6 @@
 export default {
     MAX_ATTACHMENT_SIZE: 5000000,
+    STRIPE_KEY: "pk_test_51HE2PiCqAhhWVq2YesJ3YUPDrw2YHrxZGEY7pM0MswWAqGN8uQbr7SI9jfrluTzI9wTox8jQa23s0WldwpUhhZRW00sPpVufmv",
     s3: {
       REGION: "us-east-1",
       BUCKET: "dans-notes-app-uploads"
